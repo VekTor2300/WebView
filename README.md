@@ -1,2 +1,2 @@
 # WebView
-<img src="WebView.gif" alt="video demo" Height="600"/>
+<img src="WebView.gif" alt="video demo"/>
